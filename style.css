@@ -133,6 +133,7 @@ body {
 
 .resume .resume_left .resume_skills ul li .skill_name {
   width: 25%;
+  font-weight: bold;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
